@@ -1,0 +1,8 @@
+{
+  "maven.terminal.customEnv": [
+    {
+      "environmentVariable": "GOOGLE_API_KEY",
+      "value": "AIzaSyDAWJaCbvXv31dwjB0ef8wb-3acLpx8jS0"
+    }
+  ]
+}
